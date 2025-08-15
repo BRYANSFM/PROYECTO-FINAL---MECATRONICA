@@ -1,2 +1,3 @@
-# PROYECTO-FINAL---MECATRONICA
- El código se encarga de leer y procesar señales EMG en tiempo real, lo que le permite controlar los motores de un exoesqueleto de asistencia para jóvenes con escoliosis. Funciona detectando cuándo se activan los músculos, usando filtros de señal y cálculos de RMS y umbrales para asegurar una respuesta precisa y segura.
+# PROYECTO-FINAL - MECATRONICA
+código para la lectura y procesamiento de señales EMG (electromiografía) en tiempo real para controlar motores de asistencia en un exoesqueleto diseñado para apoyar a un joven con escoliosis.
+El sistema detecta la activación muscular y mueve los motores para asistir el movimiento, utilizando filtros de señal, cálculo RMS y detección de umbral para lograr una respuesta precisa y segura.
